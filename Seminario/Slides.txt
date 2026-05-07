@@ -11,6 +11,39 @@ No quinto slide, o texto pode citar a herança simples utilizando o operador de 
 Slide 6
 Para o sexto slide, sugere-se um texto indicando a ausência de sobrecarga de métodos e de programação genérica, pontuando soluções como os parâmetros opcionais, o operador splat e as coleções de tipos mistos. A composição de mídia ideal pode incluir ícones de alerta, um código bem curto de um array com itens de tipos diferentes e um ícone de aprovação ou marca de seleção.
 Slide 7
-O sétimo slide idealmente seria dedicado apenas ao código, sem possuir textos descritivos, marcadores ou explicações em formato de texto. A sugestão de mídia para este slide é a imagem do bloco de código final completo, exibindo as classes do produto e do carrinho de compras.
+O sétimo slide deve mostrar um bloco de código completo que ilustre os conceitos abordados nos slides anteriores. Use este exemplo em Ruby:
+
+class Produto
+  attr_reader :nome, :preco
+
+  def initialize(nome, preco)
+    @nome = nome
+    @preco = preco
+  end
+end
+
+class Carrinho
+  def initialize
+    @itens = []
+  end
+
+  def adicionar(produto)
+    @itens << produto
+  end
+
+  def total
+    @itens.sum(&:preco)
+  end
+end
+
+produto1 = Produto.new('Camiseta', 79.90)
+produto2 = Produto.new('Caneca', 35.00)
+
+carrinho = Carrinho.new
+carrinho.adicionar(produto1)
+carrinho.adicionar(produto2)
+
+puts "Total: R$ #{'%.2f' % carrinho.total}"
+
 Slide 8
 Por fim, o oitavo slide poderia contar com um texto de encerramento afirmando que a orientação a objetos é a essência do design da linguagem, reforçando a expressividade do código e exibindo um agradecimento.
