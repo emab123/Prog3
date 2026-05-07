@@ -1,0 +1,20 @@
+Seminário
+Condições de conclusão
+Vencimento: quinta-feira, 14 mai. 2026, 23:59
+
+Cada grupo, composto de até 3 alunos (será o mesmo grupo do trabalho final da disciplina), deverá escolher uma linguagem de programação distinta que ofereça suporte à orientação a objetos* e preparar uma apresentação em formato de vídeo gravado. O objetivo é compreender não apenas a história e as características da linguagem escolhida, mas principalmente como os conceitos de Programação Orientada a Objetos (POO), vistos em sala de aula, são implementados em diferentes linguagens.
+
+Na apresentação, o grupo deve contemplar:
+
+    História da linguagem: origem, evolução, contexto de criação e principal campo de aplicação.
+    Sintaxe: elementos básicos da linguagem.
+    Conceitos de orientação a objetos: como são tratados os princípios de abstração, encapsulamento, herança, polimorfismo, sobrecarga e programação genérica.
+    Exemplos e aplicações: bibliotecas ou softwares relevantes que utilizam a linguagem (quando disponível), bem como um exemplo de código simples elaborado pelos próprios alunos que ilustre o uso da POO.
+
+Formato e Entrega:
+
+    Gravação: O vídeo deverá ter duração de até 15 minutos.
+    Envio: O arquivo do vídeo (ou o link para acessá-lo), junto com os slides elaborados, precisa ser enviado por meio desta tarefa até o dia 14/05.
+    Avaliação por Pares: Após esta data, os vídeos de todos os grupos serão disponibilizados em uma Wiki do Moodle. Cada aluno deverá, individualmente, realizar a avaliação das apresentações de no mínimo dois grupos distintos. Esta avaliação será feita obrigatoriamente por meio da tarefa "Feedback Seminários”, será anônima e corresponde a 20% da nota dos seminários.
+
+*Exemplos de linguagem com suporte à orientação a objetos são: Java, Python, C#, Ruby, Smalltalk, PHP, Scala, Ada, Kotlin, Swift, Eiffel, Dart. Uma lista abrangente de linguagens pode ser encontrada em: https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages

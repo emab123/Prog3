@@ -1,0 +1,16 @@
+Slide 1
+Para o primeiro slide, a recomendação é incluir o título "Programação Orientada a Objetos com Ruby", acompanhado do subtítulo "Foco na felicidade do programador" e os nomes da equipe: Eric, Letícia e Lucas. Como sugestão de mídia para acompanhar essas informações, a imagem do logo oficial do Ruby costuma ser suficiente.
+Slide 2
+No segundo slide, uma ideia é inserir um texto informando que o criador é Yukihiro Matsumoto, o ano de criação em 1995 no Japão, a filosofia de focar em uma linguagem natural para humanos e a aplicação atual em desenvolvimento web. As mídias sugeridas para ilustrar esses pontos incluem uma foto de Yukihiro Matsumoto e os logos do Ruby on Rails, GitHub, Shopify e Airbnb.
+Slide 3
+Para o terceiro slide, sugere-se abordar no texto a tipagem dinâmica, a não obrigatoriedade do ponto e vírgula e a expressividade garantida pelo uso de blocos. A mídia recomendada seria composta unicamente por dois pequenos trechos de código para comparação: um laço de repetição de uma linguagem tradicional e o código equivalente em Ruby.
+Slide 4
+O quarto slide poderia trazer um texto explicando a abstração através de classes e construtores, o encapsulamento em variáveis de instância e a liberação de acesso via macros. Como opção de mídia, seria interessante apresentar um trecho de código contendo a classe, o construtor e suas variáveis, juntamente com ícones de cadeado fechado e de cadeado aberto para ilustrar o conceito.
+Slide 5
+No quinto slide, o texto pode citar a herança simples utilizando o operador de menor, os módulos para compartilhamento de comportamentos e o polimorfismo através do Duck Typing. As mídias recomendadas para acompanhar o conteúdo são um fluxograma de hierarquia de classes e a imagem ou ilustração de um pato de borracha.
+Slide 6
+Para o sexto slide, sugere-se um texto indicando a ausência de sobrecarga de métodos e de programação genérica, pontuando soluções como os parâmetros opcionais, o operador splat e as coleções de tipos mistos. A composição de mídia ideal pode incluir ícones de alerta, um código bem curto de um array com itens de tipos diferentes e um ícone de aprovação ou marca de seleção.
+Slide 7
+O sétimo slide idealmente seria dedicado apenas ao código, sem possuir textos descritivos, marcadores ou explicações em formato de texto. A sugestão de mídia para este slide é a imagem do bloco de código final completo, exibindo as classes do produto e do carrinho de compras.
+Slide 8
+Por fim, o oitavo slide poderia contar com um texto de encerramento afirmando que a orientação a objetos é a essência do design da linguagem, reforçando a expressividade do código e exibindo um agradecimento.
